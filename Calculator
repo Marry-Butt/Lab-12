@@ -3,3 +3,6 @@ Muhammad Umair Butt
 
 //Addition
 cout << "The sum of two numbers is:" << a+b << endl;
+
+//Subtraction
+cout << "The difference of two numbers is:" << a-b << endl;
