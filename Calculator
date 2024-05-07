@@ -1,2 +1,5 @@
 Muhammad Umair Butt
 23-SET-039
+
+//Addition
+cout << "The sum of two numbers is:" << a+b << endl;
